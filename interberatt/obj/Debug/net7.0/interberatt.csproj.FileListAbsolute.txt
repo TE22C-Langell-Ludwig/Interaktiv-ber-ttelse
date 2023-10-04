@@ -1,0 +1,14 @@
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\bin\Debug\net7.0\interberatt.exe
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\bin\Debug\net7.0\interberatt.deps.json
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\bin\Debug\net7.0\interberatt.runtimeconfig.json
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\bin\Debug\net7.0\interberatt.dll
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\bin\Debug\net7.0\interberatt.pdb
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\interberatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\interberatt.AssemblyInfoInputs.cache
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\interberatt.AssemblyInfo.cs
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\interberatt.csproj.CoreCompileInputs.cache
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\interberatt.dll
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\refint\interberatt.dll
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\interberatt.pdb
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\interberatt.genruntimeconfig.cache
+C:\Users\ludwig.langell\Documents\Programmering\interberatt\interberatt\obj\Debug\net7.0\ref\interberatt.dll
